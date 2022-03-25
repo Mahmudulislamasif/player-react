@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"Rishabh Pant",
+        "role":"Wicket Keeper",
+        "team":"DC",
+        "price":"16 Crores",
+        "image":"./images/rishabpant.jpg",
+        "age":24,
+        "battingStyle":"Left Handed Bat"
+    },
+    {
+        "id":2,
+        "name":"Rabindra Jadeja",
+        "role":"All Rounder",
+        "team":"CSK",
+        "price":"16 Crores",
+        "image":"./images/rabindrajadeja.jpg",
+        "age":33,
+        "battingStyle":"Left Handed Bat"
+    },
+    {
+        "id":3,
+        "name":"Rohit Sharma",
+        "role":"Batsman",
+        "team":"MI",
+        "price":"16 Crores",
+        "image":"./images/rohit.jpg",
+        "age":34,
+        "battingStyle":"Right Handed Bat"
+    },
+    {
+        "id":4,
+        "name":"Virat Kohli",
+        "role":"Batsman",
+        "team":"RCB",
+        "price":"15 Crores",
+        "image":"./images/virat.jpg",
+        "age":33,
+        "battingStyle":"Right Handed Bat"
+    },
+    {
+        "id":5,
+        "name":"Sanju Samson",
+        "role":"Batsman",
+        "team":"RR",
+        "price":"14 Crores",
+        "image":"./images/sanju.jpg",
+        "age":27,
+        "battingStyle":"Right Handed Bat"
+    },
+    {
+        "id":6,
+        "name":"Kane Williamson",
+        "role":"Batsman",
+        "team":"SRH",
+        "price":"14 Crores",
+        "image":"./images/kane.jpg",
+        "age":31,
+        "battingStyle":"Right Handed Bat"
+    }
+]
